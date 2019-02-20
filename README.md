@@ -25,6 +25,7 @@
     <td>Y -> 0 </td>
   </tr>
     </table>
+    <h4> X is starting state and Y is final state</h4>
    <h3>Moore Transition Table</h3>
     <table>
      <tr>
@@ -52,3 +53,4 @@
   <td> 1</td>
   </tr>
   </table>
+<h4> X is starting state and Y and Z is final state</h4>
